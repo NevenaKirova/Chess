@@ -1,0 +1,3 @@
+/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir

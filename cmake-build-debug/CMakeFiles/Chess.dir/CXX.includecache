@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nevenakirova/CLionProjects/Chess/Game.cpp
+Game.h
+/Users/nevenakirova/CLionProjects/Chess/Game.h
+
+/Users/nevenakirova/CLionProjects/Chess/Game.h
+iostream
+-
+fstream
+-
+Piece.h
+/Users/nevenakirova/CLionProjects/Chess/Piece.h
+
+/Users/nevenakirova/CLionProjects/Chess/Piece.cpp
+Piece.h
+/Users/nevenakirova/CLionProjects/Chess/Piece.h
+
+/Users/nevenakirova/CLionProjects/Chess/Piece.h
+string
+-
+
+/Users/nevenakirova/CLionProjects/Chess/main.cpp
+iostream
+-
+Game.h
+/Users/nevenakirova/CLionProjects/Chess/Game.h
+
