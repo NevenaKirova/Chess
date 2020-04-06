@@ -4,8 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/nevenakirova/CLionProjects/Chess/Bishop.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Bishop.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Board.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Board.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Game.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Game.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/King.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/King.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Knight.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Knight.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Pawn.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Pawn.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Piece.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Piece.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Queen.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Queen.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Rook.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Rook.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/main.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

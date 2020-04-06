@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/nevenakirova/CLionProjects/Chess/Game.cpp
-Game.h
-/Users/nevenakirova/CLionProjects/Chess/Game.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+Piece.h
+/Users/nevenakirova/CLionProjects/Chess/Piece.h
 
 /Users/nevenakirova/CLionProjects/Chess/Game.h
 iostream
@@ -17,18 +17,36 @@ fstream
 -
 Piece.h
 /Users/nevenakirova/CLionProjects/Chess/Piece.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
 
-/Users/nevenakirova/CLionProjects/Chess/Piece.cpp
-Piece.h
-/Users/nevenakirova/CLionProjects/Chess/Piece.h
+/Users/nevenakirova/CLionProjects/Chess/Knight.cpp
+Knight.h
+/Users/nevenakirova/CLionProjects/Chess/Knight.h
+
+/Users/nevenakirova/CLionProjects/Chess/Knight.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
 
 /Users/nevenakirova/CLionProjects/Chess/Piece.h
 string
 -
 
-/Users/nevenakirova/CLionProjects/Chess/main.cpp
-iostream
--
+/Users/nevenakirova/CLionProjects/Chess/Queen.cpp
+Queen.h
+/Users/nevenakirova/CLionProjects/Chess/Queen.h
+
+/Users/nevenakirova/CLionProjects/Chess/Queen.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
+/Users/nevenakirova/CLionProjects/Chess/Rook.cpp
+Rook.h
+/Users/nevenakirova/CLionProjects/Chess/Rook.h
+
+/Users/nevenakirova/CLionProjects/Chess/Rook.h
 Game.h
 /Users/nevenakirova/CLionProjects/Chess/Game.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
 

@@ -16,19 +16,19 @@ int main() {
         board.printMenu();
         board.printBoard();
 
-        if (player==WHITE) cout<<"White move"<<endl;
-        else if (player==BLACK) cout<<"Black move"<<endl;
+        if (player == WHITE) cout << "White move" << endl;
+        else cout << "Black move" << endl;
 
         cin >> coordinate;
-        if(coordinate == 'Q') {
+        if (coordinate == 'Q') {
             cout << "End of game";
             break;
         }
-        if(coordinate == 'S') {
+        if (coordinate == 'S') {
             board.save();
             continue;
         }
-        if(coordinate == 'L') {
+        if (coordinate == 'L') {
             board.load();
             continue;
         }
