@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/nevenakirova/CLionProjects/Chess/Game.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Game.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/King.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/King.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Knight.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Knight.cpp.o"
+  "/Users/nevenakirova/CLionProjects/Chess/Moves.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Moves.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Pawn.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Pawn.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Piece.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Piece.cpp.o"
   "/Users/nevenakirova/CLionProjects/Chess/Queen.cpp" "/Users/nevenakirova/CLionProjects/Chess/cmake-build-debug/CMakeFiles/Chess.dir/Queen.cpp.o"

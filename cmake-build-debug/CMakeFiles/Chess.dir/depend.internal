@@ -5,6 +5,7 @@ CMakeFiles/Chess.dir/Bishop.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Bishop.cpp
  /Users/nevenakirova/CLionProjects/Chess/Bishop.h
  /Users/nevenakirova/CLionProjects/Chess/Board.h
+ /Users/nevenakirova/CLionProjects/Chess/Moves.h
  /Users/nevenakirova/CLionProjects/Chess/Piece.h
 CMakeFiles/Chess.dir/Board.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Board.cpp
@@ -31,6 +32,11 @@ CMakeFiles/Chess.dir/Knight.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Knight.cpp
  /Users/nevenakirova/CLionProjects/Chess/Knight.h
  /Users/nevenakirova/CLionProjects/Chess/Piece.h
+CMakeFiles/Chess.dir/Moves.cpp.o
+ /Users/nevenakirova/CLionProjects/Chess/Board.h
+ /Users/nevenakirova/CLionProjects/Chess/Moves.cpp
+ /Users/nevenakirova/CLionProjects/Chess/Moves.h
+ /Users/nevenakirova/CLionProjects/Chess/Piece.h
 CMakeFiles/Chess.dir/Pawn.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Board.h
  /Users/nevenakirova/CLionProjects/Chess/Pawn.cpp
@@ -41,12 +47,14 @@ CMakeFiles/Chess.dir/Piece.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Piece.h
 CMakeFiles/Chess.dir/Queen.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Board.h
+ /Users/nevenakirova/CLionProjects/Chess/Moves.h
  /Users/nevenakirova/CLionProjects/Chess/Piece.h
  /Users/nevenakirova/CLionProjects/Chess/Queen.cpp
  /Users/nevenakirova/CLionProjects/Chess/Queen.h
 CMakeFiles/Chess.dir/Rook.cpp.o
  /Users/nevenakirova/CLionProjects/Chess/Board.h
  /Users/nevenakirova/CLionProjects/Chess/Game.h
+ /Users/nevenakirova/CLionProjects/Chess/Moves.h
  /Users/nevenakirova/CLionProjects/Chess/Piece.h
  /Users/nevenakirova/CLionProjects/Chess/Rook.cpp
  /Users/nevenakirova/CLionProjects/Chess/Rook.h

@@ -4,6 +4,7 @@
 CMakeFiles/Chess.dir/Bishop.cpp.o: ../Bishop.cpp
 CMakeFiles/Chess.dir/Bishop.cpp.o: ../Bishop.h
 CMakeFiles/Chess.dir/Bishop.cpp.o: ../Board.h
+CMakeFiles/Chess.dir/Bishop.cpp.o: ../Moves.h
 CMakeFiles/Chess.dir/Bishop.cpp.o: ../Piece.h
 
 CMakeFiles/Chess.dir/Board.cpp.o: ../Board.cpp
@@ -31,6 +32,11 @@ CMakeFiles/Chess.dir/Knight.cpp.o: ../Knight.cpp
 CMakeFiles/Chess.dir/Knight.cpp.o: ../Knight.h
 CMakeFiles/Chess.dir/Knight.cpp.o: ../Piece.h
 
+CMakeFiles/Chess.dir/Moves.cpp.o: ../Board.h
+CMakeFiles/Chess.dir/Moves.cpp.o: ../Moves.cpp
+CMakeFiles/Chess.dir/Moves.cpp.o: ../Moves.h
+CMakeFiles/Chess.dir/Moves.cpp.o: ../Piece.h
+
 CMakeFiles/Chess.dir/Pawn.cpp.o: ../Board.h
 CMakeFiles/Chess.dir/Pawn.cpp.o: ../Pawn.cpp
 CMakeFiles/Chess.dir/Pawn.cpp.o: ../Pawn.h
@@ -40,12 +46,14 @@ CMakeFiles/Chess.dir/Piece.cpp.o: ../Piece.cpp
 CMakeFiles/Chess.dir/Piece.cpp.o: ../Piece.h
 
 CMakeFiles/Chess.dir/Queen.cpp.o: ../Board.h
+CMakeFiles/Chess.dir/Queen.cpp.o: ../Moves.h
 CMakeFiles/Chess.dir/Queen.cpp.o: ../Piece.h
 CMakeFiles/Chess.dir/Queen.cpp.o: ../Queen.cpp
 CMakeFiles/Chess.dir/Queen.cpp.o: ../Queen.h
 
 CMakeFiles/Chess.dir/Rook.cpp.o: ../Board.h
 CMakeFiles/Chess.dir/Rook.cpp.o: ../Game.h
+CMakeFiles/Chess.dir/Rook.cpp.o: ../Moves.h
 CMakeFiles/Chess.dir/Rook.cpp.o: ../Piece.h
 CMakeFiles/Chess.dir/Rook.cpp.o: ../Rook.cpp
 CMakeFiles/Chess.dir/Rook.cpp.o: ../Rook.h

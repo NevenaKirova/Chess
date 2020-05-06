@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/Users/nevenakirova/CLionProjects/Chess/Bishop.cpp
+Bishop.h
+/Users/nevenakirova/CLionProjects/Chess/Bishop.h
+Moves.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.h
+
+/Users/nevenakirova/CLionProjects/Chess/Bishop.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
 /Users/nevenakirova/CLionProjects/Chess/Board.h
 Piece.h
 /Users/nevenakirova/CLionProjects/Chess/Piece.h
@@ -20,11 +30,11 @@ Piece.h
 Board.h
 /Users/nevenakirova/CLionProjects/Chess/Board.h
 
-/Users/nevenakirova/CLionProjects/Chess/Knight.cpp
-Knight.h
-/Users/nevenakirova/CLionProjects/Chess/Knight.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.cpp
+Moves.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.h
 
-/Users/nevenakirova/CLionProjects/Chess/Knight.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.h
 Board.h
 /Users/nevenakirova/CLionProjects/Chess/Board.h
 
@@ -35,6 +45,8 @@ string
 /Users/nevenakirova/CLionProjects/Chess/Queen.cpp
 Queen.h
 /Users/nevenakirova/CLionProjects/Chess/Queen.h
+Moves.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.h
 
 /Users/nevenakirova/CLionProjects/Chess/Queen.h
 Board.h
@@ -43,6 +55,8 @@ Board.h
 /Users/nevenakirova/CLionProjects/Chess/Rook.cpp
 Rook.h
 /Users/nevenakirova/CLionProjects/Chess/Rook.h
+Moves.h
+/Users/nevenakirova/CLionProjects/Chess/Moves.h
 
 /Users/nevenakirova/CLionProjects/Chess/Rook.h
 Game.h

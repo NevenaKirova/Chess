@@ -59,7 +59,6 @@ void Game::movePiece(int x1, int y1, int x2, int y2,Player player) {
     }
     board->setPosition(board->getPosition(y1, x1), y2, x2);
     board->setPosition(new Piece(), y1, x1);
-
 }
 
 

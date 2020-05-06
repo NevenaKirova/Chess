@@ -11,6 +11,7 @@ class Queen {
 
 public:
     static bool isQueen(int x1, int y1, int x2, int y2, Board *board);
+
 };
 
 #endif //CHESS_QUEEN_H

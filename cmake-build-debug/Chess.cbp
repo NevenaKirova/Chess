@@ -110,6 +110,12 @@
 		<Unit filename="/Users/nevenakirova/CLionProjects/Chess/Knight.h">
 			<Option target="Chess"/>
 		</Unit>
+		<Unit filename="/Users/nevenakirova/CLionProjects/Chess/Moves.cpp">
+			<Option target="Chess"/>
+		</Unit>
+		<Unit filename="/Users/nevenakirova/CLionProjects/Chess/Moves.h">
+			<Option target="Chess"/>
+		</Unit>
 		<Unit filename="/Users/nevenakirova/CLionProjects/Chess/Pawn.cpp">
 			<Option target="Chess"/>
 		</Unit>
