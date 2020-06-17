@@ -5,7 +5,7 @@
 #include "Bishop.h"
 #include "Moves.h"
 
-bool Bishop::isBishop(int x1, int y1, int x2, int y2, Board *board) {
+bool Bishop::isBishopMoveValid(int x1, int y1, int x2, int y2, Board *board) {
     if (board->getPosition(y1, x1)->getType() == "Bishop") {
 
         if (abs(y2 - y1) != abs(x2 - x1)) return false;

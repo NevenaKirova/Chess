@@ -6,7 +6,7 @@
 #include "Piece.h"
 #include "Board.h"
 
-bool Pawn::isPawn(int x1, int y1, int x2, int y2, Player player, Board *board) {
+bool Pawn::isPawnMoveValid(int x1, int y1, int x2, int y2, Player player, Board *board) {
     if (board->getPosition(y1, x1)->getType() == "Pawn") {
         if (x1 == x2 && board->getPosition(y2, x2)->getDescription() == "0") { // Move forward
             if (player == board->getPosition(y1, x1)->getTeam() && player == WHITE) { // White

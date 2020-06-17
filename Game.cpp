@@ -38,17 +38,17 @@ int Game::letterToCoord(char letter) {
 
 
 bool Game::checkMove(int x1, int y1,int x2, int y2,Player player) {
-    if (Pawn::isPawn(x1, y1, x2, y2, player, board))return true;
+    if (Pawn::isPawnMoveValid(x1, y1, x2, y2, player, board))return true;
 
-    if (Rook::isRook(x1, y1, x2, y2, board)) return true;
+    if (Rook::isRookMoveValid(x1, y1, x2, y2, board)) return true;
 
-    if (Knight::isKnight(x1, y1, x2, y2, board)) return true;
+    if (Knight::isKnightMoveValid(x1, y1, x2, y2, board)) return true;
 
-    if (Bishop::isBishop(x1, y1, x2, y2, board)) return true;
+    if (Bishop::isBishopMoveValid(x1, y1, x2, y2, board)) return true;
 
-    if (King::isKing(x1, y1, x2, y2, board)) return true;
+    if (King::isKingMoveValid(x1, y1, x2, y2, board)) return true;
 
-    return Queen::isQueen(x1, y1, x2, y2, board);
+    return Queen::isQueenMoveValid(x1, y1, x2, y2, board);
 
 }
 

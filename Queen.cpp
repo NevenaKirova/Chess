@@ -5,7 +5,7 @@
 #include "Queen.h"
 #include "Moves.h"
 
-bool Queen::isQueen(int x1, int y1, int x2, int y2, Board *board) {
+bool Queen::isQueenMoveValid(int x1, int y1, int x2, int y2, Board *board) {
     if (board->getPosition(y1, x1)->getType() == "Queen") {
 
         if (x1 == x2) { // Vertical move

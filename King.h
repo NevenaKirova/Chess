@@ -10,7 +10,7 @@
 class King {
 
 public:
-    static bool isKing(int x1, int y1, int x2, int y2, Board *board);
+    static bool isKingMoveValid(int x1, int y1, int x2, int y2, Board *board);
 };
 
 #endif //CHESS_KING_H

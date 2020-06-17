@@ -20,6 +20,24 @@ Board.h
 Piece.h
 /Users/nevenakirova/CLionProjects/Chess/Piece.h
 
+/Users/nevenakirova/CLionProjects/Chess/Game.cpp
+Game.h
+/Users/nevenakirova/CLionProjects/Chess/Game.h
+Pawn.h
+/Users/nevenakirova/CLionProjects/Chess/Pawn.h
+Rook.h
+/Users/nevenakirova/CLionProjects/Chess/Rook.h
+Knight.h
+/Users/nevenakirova/CLionProjects/Chess/Knight.h
+Bishop.h
+/Users/nevenakirova/CLionProjects/Chess/Bishop.h
+King.h
+/Users/nevenakirova/CLionProjects/Chess/King.h
+Queen.h
+/Users/nevenakirova/CLionProjects/Chess/Queen.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
 /Users/nevenakirova/CLionProjects/Chess/Game.h
 iostream
 -
@@ -30,11 +48,39 @@ Piece.h
 Board.h
 /Users/nevenakirova/CLionProjects/Chess/Board.h
 
+/Users/nevenakirova/CLionProjects/Chess/King.cpp
+King.h
+/Users/nevenakirova/CLionProjects/Chess/King.h
+
+/Users/nevenakirova/CLionProjects/Chess/King.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
+/Users/nevenakirova/CLionProjects/Chess/Knight.cpp
+Knight.h
+/Users/nevenakirova/CLionProjects/Chess/Knight.h
+
+/Users/nevenakirova/CLionProjects/Chess/Knight.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
 /Users/nevenakirova/CLionProjects/Chess/Moves.cpp
 Moves.h
 /Users/nevenakirova/CLionProjects/Chess/Moves.h
 
 /Users/nevenakirova/CLionProjects/Chess/Moves.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
+/Users/nevenakirova/CLionProjects/Chess/Pawn.cpp
+Pawn.h
+/Users/nevenakirova/CLionProjects/Chess/Pawn.h
+Piece.h
+/Users/nevenakirova/CLionProjects/Chess/Piece.h
+Board.h
+/Users/nevenakirova/CLionProjects/Chess/Board.h
+
+/Users/nevenakirova/CLionProjects/Chess/Pawn.h
 Board.h
 /Users/nevenakirova/CLionProjects/Chess/Board.h
 

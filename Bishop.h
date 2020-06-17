@@ -10,7 +10,7 @@
 class Bishop {
 
 public:
-    static bool isBishop(int x1, int y1, int x2, int y2, Board *board);
+    static bool isBishopMoveValid(int x1, int y1, int x2, int y2, Board *board);
 };
 
 #endif //CHESS_BISHOP_H

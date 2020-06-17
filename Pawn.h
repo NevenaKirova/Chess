@@ -9,7 +9,7 @@
 
 class Pawn {
 public:
-    static bool isPawn(int x1, int y1, int x2, int y2, Player player, Board *board);
+    static bool isPawnMoveValid(int x1, int y1, int x2, int y2, Player player, Board *board);
 };
 
 

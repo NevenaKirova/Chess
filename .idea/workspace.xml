@@ -14,33 +14,19 @@
     <list default="true" id="25d6a2a9-9a25-46e3-b095-73fd1c0c344c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bishop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Bishop.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bishop.h" beforeDir="false" afterPath="$PROJECT_DIR$/Bishop.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/King.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/King.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/King.h" beforeDir="false" afterPath="$PROJECT_DIR$/King.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knight.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Knight.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Knight.h" beforeDir="false" afterPath="$PROJECT_DIR$/Knight.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pawn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Pawn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pawn.h" beforeDir="false" afterPath="$PROJECT_DIR$/Pawn.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Queen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Queen.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Queen.h" beforeDir="false" afterPath="$PROJECT_DIR$/Queen.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rook.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Rook.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Bishop.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Bishop.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Board.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Board.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Game.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Game.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/King.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/King.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Knight.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Knight.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Pawn.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Pawn.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Queen.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Queen.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Rook.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/Rook.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chess.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rook.h" beforeDir="false" afterPath="$PROJECT_DIR$/Rook.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Chess" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Chess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Chess.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Chess.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +84,9 @@
       <updated>1586100952156</updated>
       <workItem from="1586100960213" duration="2361000" />
       <workItem from="1586103902783" duration="12113000" />
-      <workItem from="1588693403991" duration="12350000" />
+      <workItem from="1588693403991" duration="12862000" />
+      <workItem from="1589133622495" duration="876000" />
+      <workItem from="1592428259348" duration="545000" />
     </task>
     <task id="LOCAL-00001" summary="Clean code v1.0">
       <created>1586206187784</created>
@@ -128,35 +116,36 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="331" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586206187008" />
-    <state width="1398" height="360" key="GridCell.Tab.0.bottom" timestamp="1588796265168">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="316" key="GridCell.Tab.0.bottom" timestamp="1592428803391">
+      <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="669" height="143" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1586205418726" />
+    <state width="1398" height="316" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1592428803391" />
     <state width="1398" height="360" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588796265168" />
-    <state width="1398" height="360" key="GridCell.Tab.0.center" timestamp="1588796265165">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="316" key="GridCell.Tab.0.center" timestamp="1592428803390">
+      <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="669" height="143" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1586205418724" />
+    <state width="1398" height="316" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1592428803390" />
     <state width="1398" height="360" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588796265165" />
-    <state width="1398" height="360" key="GridCell.Tab.0.left" timestamp="1588796265164">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="316" key="GridCell.Tab.0.left" timestamp="1592428803387">
+      <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="669" height="143" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1586205418723" />
+    <state width="1398" height="316" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1592428803387" />
     <state width="1398" height="360" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588796265164" />
-    <state width="1398" height="360" key="GridCell.Tab.0.right" timestamp="1588796265167">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="316" key="GridCell.Tab.0.right" timestamp="1592428803391">
+      <screen x="0" y="0" width="1440" height="830" />
     </state>
-    <state width="669" height="143" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1586205418725" />
+    <state width="1398" height="316" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1592428803391" />
     <state width="1398" height="360" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588796265167" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586206192346">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586206192346" />
-    <state x="413" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1588693409204">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="413" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1592428260015">
+      <screen x="0" y="0" width="1440" height="830" />
     </state>
     <state x="413" y="244" key="com.intellij.ide.util.TipDialog/0.0.1440.823@0.0.1440.823" timestamp="1586100958660" />
-    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1588693409204" />
+    <state x="413" y="246" key="com.intellij.ide.util.TipDialog/0.0.1440.830@0.0.1440.830" timestamp="1592428260015" />
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589133623875" />
     <state x="378" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588698268248">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

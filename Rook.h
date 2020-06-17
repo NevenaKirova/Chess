@@ -10,7 +10,7 @@
 
 class Rook {
 public:
-    static bool isRook(int x1, int y1, int x2, int y2, Board *board);
+    static bool isRookMoveValid(int x1, int y1, int x2, int y2, Board *board);
 
 };
 

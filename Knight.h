@@ -10,7 +10,7 @@
 class Knight {
 
 public:
-    static bool isKnight(int x1, int y1, int x2, int y2, Board *board);
+    static bool isKnightMoveValid(int x1, int y1, int x2, int y2, Board *board);
 };
 
 #endif //CHESS_KNIGHT_H
